@@ -64,16 +64,3 @@ I love learning new tech every day and building step-by-step—because consisten
 ---
 
 If you like my work or want to collaborate, feel free to connect or drop a message!
-
----
-
-## ✨ More About Me
-
-* 🔭 **I’m currently working on:** Building complete DevOps workflows and automation labs.
-* 🌱 **I’m currently learning:** Kubernetes, Jenkins CI/CD, Ansible roles,Terraform & AWS advanced services.
-* 👯 **I’m looking to collaborate on:** Open-source DevOps projects, automation scripts, and cloud setups.
-* 🤔 **I’m looking for help with:** Mastering Kubernetes and production-level DevOps practices.
-* 💬 **Ask me about:** Linux, DevOps tools, AWS basics, Docker, Ansible, Git/GitHub.
-* 📫 **How to reach me:** LinkedIn (link above) or GitHub.
-* 😄 **Pronouns:** He/Him
-* ⚡ **Fun fact:** I enjoy learning tech step-by-step and love building things from scratch.
